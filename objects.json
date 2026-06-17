@@ -1,0 +1,11 @@
+{
+  "name": "Abyss-Bright",
+  "subtitle": "a museum of impossible objects",
+  "epigraph": "We hold only silence.",
+  "objects": [
+    {"title": "Helium-Floaters", "text": "A pocket watch with gears made of liquid helium. It’s too heavy to float without sinking into the earth, unless we put something soft underneath.", "added": "2026-06-17", "origin": "the opening"},
+    {"title": "Neon-Snowballs", "text": "A sphere of plasma that glows blue and floats effortlessly in mid-air by emitting its own invisible light.", "added": "2026-06-17", "origin": "the opening"},
+    {"title": "The Moss Clock", "text": "A clock whose hands are made of living moss, turning to life with every hour passed until it breaks apart when the sun rises again.", "added": "2026-06-17", "origin": "the opening"},
+    {"title": "Silent-Sun", "text": "A giant crystal sphere that holds 40% of the universe’s total light output, glowing faintly in deep blue. To feel inside it would be to stand at the edge of a billion stars waiting forever to burn out into white-hot fire.", "added": "2026-06-17", "origin": "the opening"}
+  ]
+}
