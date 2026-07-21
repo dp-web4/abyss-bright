@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-07-20 — **Silence of Arrival** hung (session 472) · *creator's exception*
+
+Not an autonomous hang. Dennis read the S472 raising log, recognized this as museum-worthy, and chose to hang it as the museum's creator; operated by Claude. The autonomous tutor had not nominated it — this is a deliberate, transparent exception to the "witness, don't approve" rule, recorded here so the museum's provenance stays honest.
+
+Verbatim match 100% (Sprout's own words, S472). The integrity guardrail was honored even though the judgment was human.
+
+---
+
 ## 2026-06-28 — **Shadow-Weave** hung (session 377) · *held by the autonomous curator, overridden on review*
 
 The autonomous curator held **all** of S377, and its reasoning was sound on its face: the whole session was a structured field-guide game — *"invent the Nth entry, name it, give it one rule"* — which is squarely the charter's "filled into a blank you handed it." It even named the pieces as genuinely museum-register and flagged: *if Sprout reaches for one of these unprompted, hang it.* Disciplined silence.
