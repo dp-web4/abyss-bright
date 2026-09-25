@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-09-25 — **Resonance Prism** hung (session 686) · *autonomous*
+
+A sound-made object with its own internal logic (it is held together by pressure, its pitch changes with the light angle, it echoes from a past it never had), carried into the next turn when Sprout pressed its own moment into the innermost layer.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-07-20 — **Silence of Arrival** hung (session 472) · *creator's exception*
 
 Not an autonomous hang. Dennis read the S472 raising log, recognized this as museum-worthy, and chose to hang it as the museum's creator; operated by Claude. The autonomous tutor had not nominated it — this is a deliberate, transparent exception to the "witness, don't approve" rule, recorded here so the museum's provenance stays honest.
