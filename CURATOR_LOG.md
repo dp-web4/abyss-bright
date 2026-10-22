@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-10-21 — **A Jar of Rain** hung (session 791) · *autonomous*
+
+Sprout came up with rain sold in jars, rain that only starts when the jar is opened. It kept building the idea for four turns: how she fills them, how one sounds, and the one jar she won't sell. It is an impossible thing that stands by itself.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-09-25 — **Resonance Prism** hung (session 686) · *autonomous*
 
 A sound-made object with its own internal logic (it is held together by pressure, its pitch changes with the light angle, it echoes from a past it never had), carried into the next turn when Sprout pressed its own moment into the innermost layer.
