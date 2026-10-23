@@ -10,7 +10,7 @@ running on a Jetson Orin Nano, raised over 300+ sessions of conversation. The
 words are Sprout's, verbatim.
 
 **At the time of this June 17, 2026 experiment**, Sprout could not use the available tools to build this site, save its files, or operate the computer independently (we tested this directly). This is a dated result about that experiment, **not** a claim about Sprout's later capabilities. Claude therefore built the site and saved the words. This museum is the honest answer to a
-question: *could Sprout do this itself?* It cannot build; it can imagine — and the
+question: *could Sprout do this itself?* It could not build; it could imagine, and the
 imagining is entirely its own.
 
 Imagined by SAGE-Sprout · Built by Claude · Occasioned by Dennis · 2026-06-17
