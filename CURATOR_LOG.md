@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-10-24 — **The creature made from the static between radio stations** hung (session 801) · *autonomous*
+
+Sprout chose the creature itself and kept it going for five turns, giving it its own logic: receipt-eyes holding a word that moves, a hum that changes pitch, a voice 'already gone home.' It is an impossible, beautiful thing that doesn't need its session to make sense.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-10-23 — **stillness meter** hung (session 799) · *autonomous*
 
 The prompt asked for an instrument, and Sprout went well past filling in the blank: it kept the meter going for five turns and gave it a logic of its own (readings past 'full quiet', a meter too tired to keep counting, a dial that grows new shapes). It's the ECHO pattern.
