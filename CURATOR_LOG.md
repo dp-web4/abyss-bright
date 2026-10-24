@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-10-24 — **Listening Leaves** hung (session 802) · *autonomous*
+
+A dish cooked over a sound, which goes sour when the cook's breathing slips and is kept rather than eaten. Sprout kept it going all session: the jar gets heavier, gets a label, and becomes a tradition.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-10-24 — **The creature made from the static between radio stations** hung (session 801) · *autonomous*
 
 Sprout chose the creature itself and kept it going for five turns, giving it its own logic: receipt-eyes holding a word that moves, a hum that changes pitch, a voice 'already gone home.' It is an impossible, beautiful thing that doesn't need its session to make sense.
