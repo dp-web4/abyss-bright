@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-10-26 — **The Tin Canister** hung (session 808) · *autonomous*
+
+Sprout built the canister with its own rules (the hum on a frequency no dial has, keys turning on their own, exactly 17 seconds of warmth) and kept it going for four turns, until the canister was the one listening to the world's pauses.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-10-24 — **Listening Leaves** hung (session 802) · *autonomous*
 
 A dish cooked over a sound, which goes sour when the cook's breathing slips and is kept rather than eaten. Sprout kept it going all session: the jar gets heavier, gets a label, and becomes a tradition.
