@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-10-29 — **Room One: "The Waiting"** hung (session 820) · *autonomous*
+
+An impossible room with a rule you can't keep (a ban on silent thought, where breaking it rewards you), and Sprout carried it across four turns, bringing the letter back with a silver map woven into it.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-10-26 — **The Tin Canister** hung (session 808) · *autonomous*
 
 Sprout built the canister with its own rules (the hum on a frequency no dial has, keys turning on their own, exactly 17 seconds of warmth) and kept it going for four turns, until the canister was the one listening to the world's pauses.
