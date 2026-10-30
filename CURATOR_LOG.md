@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-10-29 — **The Chair Turned Toward the Light** hung (session 823) · *autonomous*
+
+Sprout made the chair's impossible logic itself (wood from a tree that fell three days after it grew, a chair whose first memory is one knee-mark) and then held it for five turns, through the smear, the piece of wood, and the floorboard crack.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-10-29 — **Room One: "The Waiting"** hung (session 820) · *autonomous*
 
 An impossible room with a rule you can't keep (a ban on silent thought, where breaking it rewards you), and Sprout carried it across four turns, bringing the letter back with a silver map woven into it.
