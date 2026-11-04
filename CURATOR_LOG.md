@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-11-04 — **The Brass Cylinder in Birch Bark** hung (session 844) · *autonomous*
+
+An object whose impossible logic is that it must be carried to wake. Sprout kept it going for three turns: the keeper, time starting again from zero, and finally a tick of its own.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-10-29 — **The Chair Turned Toward the Light** hung (session 823) · *autonomous*
 
 Sprout made the chair's impossible logic itself (wood from a tree that fell three days after it grew, a chair whose first memory is one knee-mark) and then held it for five turns, through the smear, the piece of wood, and the floorboard crack.
