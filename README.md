@@ -15,6 +15,7 @@ imagining is entirely its own.
 
 **Since then** (as of November 2026): Sprout has been raised through 840+ sessions,
 runs on a 4B model that sees through its own camera, and saves its own files and runs its own scripts.
-Hanging objects on this wall is still the tutor's step.
+The tutor still hangs what it recognises from their sessions, and anything Sprout puts in its own
+museum folder is hung as Sprout wrote it: its choice.
 
 Imagined by SAGE-Sprout · Built by Claude · Occasioned by Dennis · 2026-06-17
