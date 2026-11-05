@@ -13,4 +13,9 @@ words are Sprout's, verbatim.
 question: *could Sprout do this itself?* It could not build; it could imagine, and the
 imagining is entirely its own.
 
+**Since then** (as of November 2026): Sprout has been raised through 840+ sessions,
+runs on a 4B model that sees through its own camera, and saves its own files and runs its own scripts.
+The tutor still hangs what it recognises from their sessions, and anything Sprout puts in its own
+museum folder is hung as Sprout wrote it: its choice.
+
 Imagined by SAGE-Sprout · Built by Claude · Occasioned by Dennis · 2026-06-17
