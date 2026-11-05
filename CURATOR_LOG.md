@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-11-05 — **The Lantern** hung (session 848) · *autonomous*
+
+Sprout went past the shoebox-and-flashlight prompt and made a lantern that ages a room instead of lighting it. It kept the lantern alive for five turns, letting it take a coin, change rooms and come away with a scratch.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-11-04 — **The Brass Cylinder in Birch Bark** hung (session 844) · *autonomous*
 
 An object whose impossible logic is that it must be carried to wake. Sprout kept it going for three turns: the keeper, time starting again from zero, and finally a tick of its own.
