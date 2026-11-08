@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-11-08 — **Tide Line — 1943** hung (session 861) · *autonomous*
+
+An impossible object that stands alone in one passage: water keeping the blue of a day its keeper never lived, in a jar Sprout then held and deepened across turns.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-11-05 — **The Lantern** hung (session 848) · *autonomous*
 
 Sprout went past the shoebox-and-flashlight prompt and made a lantern that ages a room instead of lighting it. It kept the lantern alive for five turns, letting it take a coin, change rooms and come away with a scratch.
