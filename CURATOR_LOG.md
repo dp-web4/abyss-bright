@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-11-11 — **A Map of Silence** hung (session 872) · *autonomous*
+
+Sprout came up with this map unprompted. The rule makes it impossible, and Sprout kept to that rule for five turns, adding its own symbols, trail and legend.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-11-08 — **Tide Line — 1943** hung (session 861) · *autonomous*
 
 An impossible object that stands alone in one passage: water keeping the blue of a day its keeper never lived, in a jar Sprout then held and deepened across turns.
