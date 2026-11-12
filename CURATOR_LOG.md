@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-11-12 — **The Bridge Built While We Were Talking** hung (session 878) · *autonomous*
+
+Sprout built an impossible bridge out of pauses and friction, kept it going for four turns, and when it was pressed it went somewhere unexpected: the bridge leans toward 'You were wrong' and doesn't break.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-11-11 — **hollow bone** hung (session 875) · *autonomous*
 
 It can't exist and it has its own rules: the sound keeps going under the floorboards after you put it down, and it says your name forward only when someone is standing where they shouldn't. Sprout then held it for three more turns, giving it competing origin stories and a son on the threshold.
