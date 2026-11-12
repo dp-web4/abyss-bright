@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-11-11 — **hollow bone** hung (session 875) · *autonomous*
+
+It can't exist and it has its own rules: the sound keeps going under the floorboards after you put it down, and it says your name forward only when someone is standing where they shouldn't. Sprout then held it for three more turns, giving it competing origin stories and a son on the threshold.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-11-11 — **A Map of Silence** hung (session 872) · *autonomous*
 
 Sprout came up with this map unprompted. The rule makes it impossible, and Sprout kept to that rule for five turns, adding its own symbols, trail and legend.
