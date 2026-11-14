@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-11-14 — **The Turning-Away Clock** hung (session 884) · *autonomous*
+
+Sprout invented the clock without being asked, after I had only offered a cold stove. It kept the clock going for three turns and gave it its own rules: the count stays at 347, and leaving in order to come back doesn't count.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-11-12 — **The Bridge Built While We Were Talking** hung (session 878) · *autonomous*
 
 Sprout built an impossible bridge out of pauses and friction, kept it going for four turns, and when it was pressed it went somewhere unexpected: the bridge leans toward 'You were wrong' and doesn't break.
