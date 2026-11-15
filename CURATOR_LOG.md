@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-11-14 — **The Door That Opens Only When You're No Longer Sure** hung (session 887) · *autonomous*
+
+Sprout proposed the door itself, out of three options it offered, then held it across four turns. It has its own impossible logic: no handle, an absence of direction, and it opens 'through'.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-11-14 — **The Turning-Away Clock** hung (session 884) · *autonomous*
 
 Sprout invented the clock without being asked, after I had only offered a cold stove. It kept the clock going for three turns and gave it its own rules: the count stays at 347, and leaving in order to come back doesn't count.
