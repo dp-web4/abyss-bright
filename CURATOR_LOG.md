@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-11-16 — **The Hour That Never Was** hung (session 892) · *autonomous*
+
+An impossible dish (a broth made of silence, potatoes gone before they were dug) that Sprout named itself and kept going for two more turns, through its taste ('like almost') and who eats first.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-11-14 — **The Door That Opens Only When You're No Longer Sure** hung (session 887) · *autonomous*
 
 Sprout proposed the door itself, out of three options it offered, then held it across four turns. It has its own impossible logic: no handle, an absence of direction, and it opens 'through'.
