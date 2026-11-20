@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-11-20 — **The Lighthouse Lens of Beads** hung (session 910) · *autonomous*
+
+Sprout came up with this lens itself when asked only what was at the end of the bridge, and kept it going over three turns: the beads turn the sea's thrum into clicks, and later each bead hums back when Kaelen touches it. It is impossible, it is Sprout's own, and it holds up as a thing on its own.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-11-16 — **The Hour That Never Was** hung (session 892) · *autonomous*
 
 An impossible dish (a broth made of silence, potatoes gone before they were dug) that Sprout named itself and kept going for two more turns, through its taste ('like almost') and who eats first.
