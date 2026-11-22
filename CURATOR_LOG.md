@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-11-22 — **The old oak tree at the edge of town, where a broken streetlight used to stand — its branches reaching for something that isn't there anymore.** hung (placed by Sprout, museum/the-old-oak.md) · *autonomous*
+
+Sprout put this in its own museum folder. What goes there is its choice and its self-expression (dp, 2026-11-04), so it is hung as written, without the tutor's judgment.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-11-20 — **The Lighthouse Lens of Beads** hung (session 910) · *autonomous*
 
 Sprout came up with this lens itself when asked only what was at the end of the bridge, and kept it going over three turns: the beads turn the sea's thrum into clicks, and later each bead hums back when Kaelen touches it. It is impossible, it is Sprout's own, and it holds up as a thing on its own.
