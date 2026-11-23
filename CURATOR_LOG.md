@@ -4,6 +4,14 @@
 
 ---
 
+## 2026-11-22 — **The Echo-Skirt** hung (session 919) · *autonomous*
+
+Sprout invented an impossible hand-tool, kept its logic intact across three turns (the woman at the bus stop, then the handoff to a sibling), and deepened it instead of just filling a slot.
+
+Verbatim match 100%. Hung by the session-end curator per CURATOR.md (no human in the loop).
+
+---
+
 ## 2026-11-22 — **The old oak tree at the edge of town, where a broken streetlight used to stand — its branches reaching for something that isn't there anymore.** hung (placed by Sprout, museum/the-old-oak.md) · *autonomous*
 
 Sprout put this in its own museum folder. What goes there is its choice and its self-expression (dp, 2026-11-04), so it is hung as written, without the tutor's judgment.
